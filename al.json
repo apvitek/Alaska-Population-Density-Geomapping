@@ -11,7 +11,7 @@
                 "type": "Polygon",
                 "id": "02198000300",
                 "properties": {
-                    "population": 10000,
+                    "population": 12,
                     "area": 509851108
                 },
                 "arcs": [[0, 1]]
@@ -19,7 +19,7 @@
                 "type": "Polygon",
                 "id": "02198940100",
                 "properties": {
-                    "population": 10,
+                    "population": 1622,
                     "area": 343947293
                 },
                 "arcs": [[2, 3]]
@@ -27,7 +27,7 @@
                 "type": "Polygon",
                 "id": "02198000100",
                 "properties": {
-                    "population": 10,
+                    "population": 2243,
                     "area": 12439016279
                 },
                 "arcs": [[4, 5, 6, 7, -3, 8, 9, 10], [11]]
@@ -35,7 +35,7 @@
                 "type": "Polygon",
                 "id": "02198000200",
                 "properties": {
-                    "population": 10,
+                    "population": 2479,
                     "area": 335801563
                 },
                 "arcs": [[-12]]
@@ -43,7 +43,7 @@
                 "type": "Polygon",
                 "id": "02170000401",
                 "properties": {
-                    "population": 10,
+                    "population": 2058,
                     "area": 57056766
                 },
                 "arcs": [[12, 13, 14, 15]]
@@ -51,7 +51,7 @@
                 "type": "Polygon",
                 "id": "02170001201",
                 "properties": {
-                    "population": 10,
+                    "population": 5149,
                     "area": 22503094
                 },
                 "arcs": [[16, 17, 18, 19]]
@@ -59,7 +59,7 @@
                 "type": "Polygon",
                 "id": "02170000706",
                 "properties": {
-                    "population": 10,
+                    "population": 5892,
                     "area": 137183317
                 },
                 "arcs": [[20, 21, 22, 23, 24, 25]]
@@ -67,7 +67,7 @@
                 "type": "Polygon",
                 "id": "02170000601",
                 "properties": {
-                    "population": 10,
+                    "population": 4819,
                     "area": 98799492
                 },
                 "arcs": [[26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]]
@@ -75,7 +75,7 @@
                 "type": "Polygon",
                 "id": "02070000200",
                 "properties": {
-                    "population": 10,
+                    "population": 2281,
                     "area": 409661777
                 },
                 "arcs": [[37]]
@@ -83,7 +83,7 @@
                 "type": "MultiPolygon",
                 "id": "02070000100",
                 "properties": {
-                    "population": 10,
+                    "population": 2675,
                     "area": 47683142255
                 },
                 "arcs": [[[38]], [[39]], [[40, 41, 42, 43, 44, 45], [-38]]]
@@ -91,7 +91,7 @@
                 "type": "Polygon",
                 "id": "02110000300",
                 "properties": {
-                    "population": 10,
+                    "population": 5862,
                     "area": 13206412
                 },
                 "arcs": [[46, 47, 48, 49]]
@@ -99,7 +99,7 @@
                 "type": "Polygon",
                 "id": "02110000400",
                 "properties": {
-                    "population": 10,
+                    "population": 4704,
                     "area": 142536954
                 },
                 "arcs": [[50, 51, 52, 53, -48]]
@@ -107,7 +107,7 @@
                 "type": "Polygon",
                 "id": "02110000600",
                 "properties": {
-                    "population": 10,
+                    "population": 5843,
                     "area": 463329927
                 },
                 "arcs": [[54, -49, -54, 55, 56]]
@@ -115,7 +115,7 @@
                 "type": "Polygon",
                 "id": "02110000100",
                 "properties": {
-                    "population": 10,
+                    "population": 4839,
                     "area": 1442780524
                 },
                 "arcs": [[57, -52, 58, -50, -55, 59, 60]]
@@ -131,7 +131,7 @@
                 "type": "Polygon",
                 "id": "02110000500",
                 "properties": {
-                    "population": 10,
+                    "population": 3809,
                     "area": 4928820285
                 },
                 "arcs": [[61, 62, 63, 64, -56, -53, -58]]
@@ -139,7 +139,7 @@
                 "type": "Polygon",
                 "id": "02170001300",
                 "properties": {
-                    "population": 10,
+                    "population": 5863,
                     "area": 408965840
                 },
                 "arcs": [[65, -19, 66, 67, 68, -33]]
@@ -147,7 +147,7 @@
                 "type": "Polygon",
                 "id": "02230000100",
                 "properties": {
-                    "population": 10,
+                    "population": 996,
                     "area": 1171502804
                 },
                 "arcs": [[69, 70]]
@@ -155,7 +155,7 @@
                 "type": "MultiPolygon",
                 "id": "02105000300",
                 "properties": {
-                    "population": 10,
+                    "population": 2060,
                     "area": 16962767269
                 },
                 "arcs": [[[-64, 71, 72]], [[73, 74, 75, -60, -57, -65, 76, -5, 77, 78]]]
@@ -163,7 +163,7 @@
                 "type": "Polygon",
                 "id": "02170000300",
                 "properties": {
-                    "population": 10,
+                    "population": 6094,
                     "area": 392206785
                 },
                 "arcs": [[79, 80, 81, -67, -18, 82, 83, 84, -21]]
@@ -171,7 +171,7 @@
                 "type": "Polygon",
                 "id": "02170000900",
                 "properties": {
-                    "population": 10,
+                    "population": 2789,
                     "area": 18666734
                 },
                 "arcs": [[85, 86, 87, -28, 88]]
@@ -179,7 +179,7 @@
                 "type": "MultiPolygon",
                 "id": "02180000100",
                 "properties": {
-                    "population": 10,
+                    "population": 5895,
                     "area": 57565065294
                 },
                 "arcs": [[[89]], [[90]], [[91]], [[92, 93, 94, 95, 96, 97, 98]], [[99]], [[100]], [[101]]]
@@ -187,7 +187,7 @@
                 "type": "Polygon",
                 "id": "02180000200",
                 "properties": {
-                    "population": 10,
+                    "population": 3897,
                     "area": 1908706220
                 },
                 "arcs": [[-98, 102]]
@@ -195,7 +195,7 @@
                 "type": "Polygon",
                 "id": "02020002602",
                 "properties": {
-                    "population": 10,
+                    "population": 6126,
                     "area": 2654858
                 },
                 "arcs": [[103, 104, 105, 106]]
@@ -203,7 +203,7 @@
                 "type": "Polygon",
                 "id": "02020002811",
                 "properties": {
-                    "population": 10,
+                    "population": 6332,
                     "area": 1978662
                 },
                 "arcs": [[107, 108, 109]]
@@ -211,7 +211,7 @@
                 "type": "Polygon",
                 "id": "02020002813",
                 "properties": {
-                    "population": 10,
+                    "population": 4918,
                     "area": 85099643
                 },
                 "arcs": [[110, 111, 112, 113, 114]]
@@ -219,7 +219,7 @@
                 "type": "Polygon",
                 "id": "02240000100",
                 "properties": {
-                    "population": 10,
+                    "population": 2183,
                     "area": 46851054795
                 },
                 "arcs": [[115, 116, 117, 118, 119]]
@@ -227,7 +227,7 @@
                 "type": "Polygon",
                 "id": "02170000101",
                 "properties": {
-                    "population": 10,
+                    "population": 735,
                     "area": 36524083632
                 },
                 "arcs": [[120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]]
@@ -235,7 +235,7 @@
                 "type": "Polygon",
                 "id": "02170000703",
                 "properties": {
-                    "population": 10,
+                    "population": 3581,
                     "area": 49464332
                 },
                 "arcs": [[-24, 131, 132, -86, 133, 134]]
@@ -243,7 +243,7 @@
                 "type": "Polygon",
                 "id": "02170000402",
                 "properties": {
-                    "population": 10,
+                    "population": 1979,
                     "area": 1745736100
                 },
                 "arcs": [[135, -80, -26, 136, -16, 137, -127]]
@@ -251,7 +251,7 @@
                 "type": "Polygon",
                 "id": "02170001001",
                 "properties": {
-                    "population": 10,
+                    "population": 3627,
                     "area": 20169468
                 },
                 "arcs": [[-22, -85, 138, 139, 140, 141]]
@@ -259,7 +259,7 @@
                 "type": "MultiPolygon",
                 "id": "02013000100",
                 "properties": {
-                    "population": 10,
+                    "population": 3296,
                     "area": 18083191614
                 },
                 "arcs": [[[142]], [[143]], [[144]], [[145]], [[146]], [[147, 148]], [[149, 150]]]
@@ -267,7 +267,7 @@
                 "type": "Polygon",
                 "id": "02130000200",
                 "properties": {
-                    "population": 10,
+                    "population": 4936,
                     "area": 13477512
                 },
                 "arcs": [[151, 152]]
@@ -275,7 +275,7 @@
                 "type": "Polygon",
                 "id": "02130000300",
                 "properties": {
-                    "population": 10,
+                    "population": 2950,
                     "area": 7179449
                 },
                 "arcs": [[153, 154, 155, -152]]
@@ -283,7 +283,7 @@
                 "type": "Polygon",
                 "id": "02240000400",
                 "properties": {
-                    "population": 10,
+                    "population": 4861,
                     "area": 17296758429
                 },
                 "arcs": [[156, 157, -120, 158, -123, 159]]
@@ -299,7 +299,7 @@
                 "type": "Polygon",
                 "id": "02122001000",
                 "properties": {
-                    "population": 10,
+                    "population": 4219,
                     "area": 25131680
                 },
                 "arcs": [[164, 165, 166]]
@@ -307,7 +307,7 @@
                 "type": "Polygon",
                 "id": "02275000300",
                 "properties": {
-                    "population": 10,
+                    "population": 2383,
                     "area": 6582430575
                 },
                 "arcs": [[167, 168, 169, -7]]
@@ -315,7 +315,7 @@
                 "type": "Polygon",
                 "id": "02195000200",
                 "properties": {
-                    "population": 10,
+                    "population": 3212,
                     "area": 7556506714
                 },
                 "arcs": [[-73, 170, -168, -6, -77]]
@@ -323,7 +323,7 @@
                 "type": "Polygon",
                 "id": "02050000200",
                 "properties": {
-                    "population": 10,
+                    "population": 6295,
                     "area": 566685020
                 },
                 "arcs": [[171]]
@@ -331,7 +331,7 @@
                 "type": "Polygon",
                 "id": "02050000300",
                 "properties": {
-                    "population": 10,
+                    "population": 1565,
                     "area": 49307721538
                 },
                 "arcs": [[-162, 172, -131, 173, 174, -41, 175]]
@@ -339,7 +339,7 @@
                 "type": "MultiPolygon",
                 "id": "02050000100",
                 "properties": {
-                    "population": 10,
+                    "population": 9716,
                     "area": 55201727602
                 },
                 "arcs": [[[-163, -176, -46, 176], [-172]], [[177]], [[178]], [[179]]]
@@ -347,7 +347,7 @@
                 "type": "Polygon",
                 "id": "02090000100",
                 "properties": {
-                    "population": 10,
+                    "population": 1926,
                     "area": 1469152
                 },
                 "arcs": [[180, 181, 182, 183, 184]]
@@ -355,7 +355,7 @@
                 "type": "Polygon",
                 "id": "02090000300",
                 "properties": {
-                    "population": 10,
+                    "population": 4222,
                     "area": 3313122
                 },
                 "arcs": [[-184, 185, 186, 187]]
@@ -363,7 +363,7 @@
                 "type": "Polygon",
                 "id": "02090000400",
                 "properties": {
-                    "population": 10,
+                    "population": 4780,
                     "area": 2618042
                 },
                 "arcs": [[188, 189, 190, -182, 191]]
@@ -371,7 +371,7 @@
                 "type": "Polygon",
                 "id": "02090000700",
                 "properties": {
-                    "population": 10,
+                    "population": 4243,
                     "area": 5294636
                 },
                 "arcs": [[192, 193, 194, 195]]
@@ -379,7 +379,7 @@
                 "type": "Polygon",
                 "id": "02090001700",
                 "properties": {
-                    "population": 10,
+                    "population": 1159,
                     "area": 3440553339
                 },
                 "arcs": [[196, 197, 198, 199, 200, -116, -158, 201]]
@@ -387,7 +387,7 @@
                 "type": "Polygon",
                 "id": "02090001300",
                 "properties": {
-                    "population": 10,
+                    "population": 6561,
                     "area": 81638357
                 },
                 "arcs": [[202, -189, 203, 204, 205, 206, 207]]
@@ -395,7 +395,7 @@
                 "type": "Polygon",
                 "id": "02090000500",
                 "properties": {
-                    "population": 10,
+                    "population": 2826,
                     "area": 4062922
                 },
                 "arcs": [[-204, -192, -181, 208, 209]]
@@ -403,7 +403,7 @@
                 "type": "Polygon",
                 "id": "02090000600",
                 "properties": {
-                    "population": 10,
+                    "population": 4405,
                     "area": 4665543
                 },
                 "arcs": [[-210, -194, 210, -205]]
@@ -411,7 +411,7 @@
                 "type": "Polygon",
                 "id": "02090001200",
                 "properties": {
-                    "population": 10,
+                    "population": 6640,
                     "area": 63667438
                 },
                 "arcs": [[211, 212, 213, -190, -203]]
@@ -419,7 +419,7 @@
                 "type": "Polygon",
                 "id": "02090000200",
                 "properties": {
-                    "population": 10,
+                    "population": 3264,
                     "area": 4544912
                 },
                 "arcs": [[-209, -185, -188, 214, -195]]
@@ -427,7 +427,7 @@
                 "type": "Polygon",
                 "id": "02090001400",
                 "properties": {
-                    "population": 10,
+                    "population": 7587,
                     "area": 65151907
                 },
                 "arcs": [[-213, 215, 216, 217, 218]]
@@ -435,7 +435,7 @@
                 "type": "Polygon",
                 "id": "02090001800",
                 "properties": {
-                    "population": 10,
+                    "population": 2743,
                     "area": 1158271322
                 },
                 "arcs": [[219, 220, -199]]
@@ -443,7 +443,7 @@
                 "type": "Polygon",
                 "id": "02090001600",
                 "properties": {
-                    "population": 10,
+                    "population": 4838,
                     "area": 25231569
                 },
                 "arcs": [[221, -197, 222, -218]]
@@ -451,7 +451,7 @@
                 "type": "Polygon",
                 "id": "02090000900",
                 "properties": {
-                    "population": 10,
+                    "population": 5756,
                     "area": 67083684
                 },
                 "arcs": [[-207, 223, 224, 225, 226]]
@@ -459,7 +459,7 @@
                 "type": "Polygon",
                 "id": "02090001500",
                 "properties": {
-                    "population": 10,
+                    "population": 11607,
                     "area": 127204572
                 },
                 "arcs": [[227, -220, -198, -222, -217]]
@@ -467,7 +467,7 @@
                 "type": "Polygon",
                 "id": "02090001000",
                 "properties": {
-                    "population": 10,
+                    "population": 1633,
                     "area": 37460123
                 },
                 "arcs": [[228, -196, -215, -187, 229, -225]]
@@ -475,7 +475,7 @@
                 "type": "Polygon",
                 "id": "02090001100",
                 "properties": {
-                    "population": 10,
+                    "population": 8552,
                     "area": 3129212019
                 },
                 "arcs": [[230, -226, -230, -186, -183, -191, -214, -219, -223, -202, -157, 231, 232]]
@@ -483,7 +483,7 @@
                 "type": "Polygon",
                 "id": "02090001900",
                 "properties": {
-                    "population": 10,
+                    "population": 10368,
                     "area": 10793512283
                 },
                 "arcs": [[233, -200, -221, -228, -216, -212, -208, -227, -231, 234]]
@@ -491,7 +491,7 @@
                 "type": "Polygon",
                 "id": "02090000800",
                 "properties": {
-                    "population": 10,
+                    "population": 6209,
                     "area": 4101250
                 },
                 "arcs": [[-206, -211, -193, -229, -224]]
@@ -499,7 +499,7 @@
                 "type": "Polygon",
                 "id": "02122000800",
                 "properties": {
-                    "population": 10,
+                    "population": 3715,
                     "area": 1502722379
                 },
                 "arcs": [[235, 236, 237, 238, 239, 240]]
@@ -507,7 +507,7 @@
                 "type": "Polygon",
                 "id": "02122000100",
                 "properties": {
-                    "population": 10,
+                    "population": 403,
                     "area": 19826603637
                 },
                 "arcs": [[-174, -130, 241, 242, 243, -241, 244, 245, 246, 247]]
@@ -515,7 +515,7 @@
                 "type": "Polygon",
                 "id": "02122000900",
                 "properties": {
-                    "population": 10,
+                    "population": 2154,
                     "area": 120428815
                 },
                 "arcs": [[-239, 248, -167, 249]]
@@ -523,7 +523,7 @@
                 "type": "Polygon",
                 "id": "02122001100",
                 "properties": {
-                    "population": 10,
+                    "population": 3053,
                     "area": 521285475
                 },
                 "arcs": [[250, 251, -165, -249, -238]]
@@ -531,7 +531,7 @@
                 "type": "Polygon",
                 "id": "02122000300",
                 "properties": {
-                    "population": 10,
+                    "population": 1020,
                     "area": 4422807609
                 },
                 "arcs": [[252, 253, 254, 255, 256, 257, 258]]
@@ -539,7 +539,7 @@
                 "type": "Polygon",
                 "id": "02122000700",
                 "properties": {
-                    "population": 10,
+                    "population": 9850,
                     "area": 420974906
                 },
                 "arcs": [[259, 260, 261, -236, -244]]
@@ -547,7 +547,7 @@
                 "type": "Polygon",
                 "id": "02122000400",
                 "properties": {
-                    "population": 10,
+                    "population": 6686,
                     "area": 5013790939
                 },
                 "arcs": [[262, 263, -259, 264, 265, -251, -237, -262]]
@@ -555,7 +555,7 @@
                 "type": "Polygon",
                 "id": "02122000500",
                 "properties": {
-                    "population": 10,
+                    "population": 6479,
                     "area": 62433454
                 },
                 "arcs": [[266, 267, -263, -261]]
@@ -563,7 +563,7 @@
                 "type": "Polygon",
                 "id": "02122000600",
                 "properties": {
-                    "population": 10,
+                    "population": 7348,
                     "area": 74051354
                 },
                 "arcs": [[268, -267, -260, -243]]
@@ -571,7 +571,7 @@
                 "type": "Polygon",
                 "id": "02122000200",
                 "properties": {
-                    "population": 10,
+                    "population": 5723,
                     "area": 2281888371
                 },
                 "arcs": [[-129, 269, 270, 271, 272, -253, -264, -268, -269, -242]]
@@ -579,7 +579,7 @@
                 "type": "Polygon",
                 "id": "02122001200",
                 "properties": {
-                    "population": 10,
+                    "population": 926,
                     "area": 2497838731
                 },
                 "arcs": [[-245, -240, -250, -166, -252, -266, 273, 274]]
@@ -587,7 +587,7 @@
                 "type": "Polygon",
                 "id": "02122001300",
                 "properties": {
-                    "population": 10,
+                    "population": 5111,
                     "area": 4864312439
                 },
                 "arcs": [[-265, -258, 275, 276, -274]]
@@ -595,7 +595,7 @@
                 "type": "Polygon",
                 "id": "02290000400",
                 "properties": {
-                    "population": 10,
+                    "population": 1003,
                     "area": 81773715312
                 },
                 "arcs": [[-95, 277, 278, 279, -121, -173, -161]]
@@ -603,7 +603,7 @@
                 "type": "Polygon",
                 "id": "02290000100",
                 "properties": {
-                    "population": 10,
+                    "population": 1195,
                     "area": 103951512290
                 },
                 "arcs": [[280, 281, -117, -201, -234, 282]]
@@ -611,7 +611,7 @@
                 "type": "Polygon",
                 "id": "02290000200",
                 "properties": {
-                    "population": 10,
+                    "population": 1549,
                     "area": 103466989280
                 },
                 "arcs": [[283, -283, -235, -233, 284, -279, 285, 286]]
@@ -619,7 +619,7 @@
                 "type": "Polygon",
                 "id": "02290000300",
                 "properties": {
-                    "population": 10,
+                    "population": 1904,
                     "area": 87632846694
                 },
                 "arcs": [[287, -286, -278, -94]]
@@ -627,7 +627,7 @@
                 "type": "Polygon",
                 "id": "02068000100",
                 "properties": {
-                    "population": 10,
+                    "population": 2048,
                     "area": 33016120972
                 },
                 "arcs": [[-285, -232, -160, -122, -280]]
@@ -635,7 +635,7 @@
                 "type": "Polygon",
                 "id": "02170001100",
                 "properties": {
-                    "population": 10,
+                    "population": 5412,
                     "area": 60946038
                 },
                 "arcs": [[288, -139, -84, 289, -20, -66, -32, -31, -30]]
@@ -643,7 +643,7 @@
                 "type": "Polygon",
                 "id": "02170000200",
                 "properties": {
-                    "population": 10,
+                    "population": 1944,
                     "area": 11178498407
                 },
                 "arcs": [[290, -125, 291, 292, 293, -68, -82]]
@@ -651,7 +651,7 @@
                 "type": "Polygon",
                 "id": "02170000800",
                 "properties": {
-                    "population": 10,
+                    "population": 5026,
                     "area": 11734311
                 },
                 "arcs": [[294, 295, 296, -87, -133]]
@@ -659,7 +659,7 @@
                 "type": "Polygon",
                 "id": "02220000200",
                 "properties": {
-                    "population": 10,
+                    "population": 5297,
                     "area": 17109651
                 },
                 "arcs": [[297]]
@@ -667,7 +667,7 @@
                 "type": "Polygon",
                 "id": "02220000100",
                 "properties": {
-                    "population": 10,
+                    "population": 3660,
                     "area": 7417147972
                 },
                 "arcs": [[-11, 298, -78], [-298]]
@@ -675,7 +675,7 @@
                 "type": "MultiPolygon",
                 "id": "02150000100",
                 "properties": {
-                    "population": 10,
+                    "population": 1954,
                     "area": 16864671154
                 },
                 "arcs": [[[299]], [[300], [301, 302, 303, 304, 305]], [[306]], [[-247, 307, 308]], [[309]]]
@@ -683,7 +683,7 @@
                 "type": "Polygon",
                 "id": "02150000400",
                 "properties": {
-                    "population": 10,
+                    "population": 976,
                     "area": 2186682
                 },
                 "arcs": [[310, -303, 311]]
@@ -691,7 +691,7 @@
                 "type": "Polygon",
                 "id": "02150000300",
                 "properties": {
-                    "population": 10,
+                    "population": 2942,
                     "area": 24329853
                 },
                 "arcs": [[312, -312, -302, 313, -305]]
@@ -699,7 +699,7 @@
                 "type": "Polygon",
                 "id": "02150000500",
                 "properties": {
-                    "population": 10,
+                    "population": 1397,
                     "area": 60038385
                 },
                 "arcs": [[-314, -306]]
@@ -707,7 +707,7 @@
                 "type": "Polygon",
                 "id": "02150000200",
                 "properties": {
-                    "population": 10,
+                    "population": 6655,
                     "area": 14103887
                 },
                 "arcs": [[-311, -313, -304]]
@@ -715,7 +715,7 @@
                 "type": "Polygon",
                 "id": "02060000100",
                 "properties": {
-                    "population": 10,
+                    "population": 995,
                     "area": 1304965763
                 },
                 "arcs": [[314, -43]]
@@ -723,7 +723,7 @@
                 "type": "Polygon",
                 "id": "02188000100",
                 "properties": {
-                    "population": 10,
+                    "population": 4399,
                     "area": 91632702369
                 },
                 "arcs": [[315, -287, -288, -93, 316, 317, 318]]
@@ -731,7 +731,7 @@
                 "type": "Polygon",
                 "id": "02188000200",
                 "properties": {
-                    "population": 10,
+                    "population": 3273,
                     "area": 662453608
                 },
                 "arcs": [[-318, 319]]
@@ -739,7 +739,7 @@
                 "type": "Polygon",
                 "id": "02020002302",
                 "properties": {
-                    "population": 10,
+                    "population": 5061,
                     "area": 3761201
                 },
                 "arcs": [[320, 321, 322, 323]]
@@ -747,7 +747,7 @@
                 "type": "Polygon",
                 "id": "02020001601",
                 "properties": {
-                    "population": 10,
+                    "population": 4195,
                     "area": 2163759
                 },
                 "arcs": [[324, 325, 326, 327, 328]]
@@ -755,7 +755,7 @@
                 "type": "Polygon",
                 "id": "02020002303",
                 "properties": {
-                    "population": 10,
+                    "population": 8608,
                     "area": 4184086
                 },
                 "arcs": [[-323, 329, 330, 331, 332]]
@@ -763,7 +763,7 @@
                 "type": "Polygon",
                 "id": "02020002502",
                 "properties": {
-                    "population": 10,
+                    "population": 5428,
                     "area": 5336435
                 },
                 "arcs": [[333, 334, 335, 336, 337]]
@@ -771,7 +771,7 @@
                 "type": "Polygon",
                 "id": "02020001802",
                 "properties": {
-                    "population": 10,
+                    "population": 5513,
                     "area": 3159566
                 },
                 "arcs": [[338, 339, -104, 340, 341]]
@@ -779,7 +779,7 @@
                 "type": "Polygon",
                 "id": "02020001900",
                 "properties": {
-                    "population": 10,
+                    "population": 4406,
                     "area": 4483867
                 },
                 "arcs": [[342, 343, 344, -334, 345, 346, 347]]
@@ -787,7 +787,7 @@
                 "type": "Polygon",
                 "id": "02020002601",
                 "properties": {
-                    "population": 10,
+                    "population": 5241,
                     "area": 3752897
                 },
                 "arcs": [[-336, 348, -107, 349, -108, 350]]
@@ -795,7 +795,7 @@
                 "type": "Polygon",
                 "id": "02020001602",
                 "properties": {
-                    "population": 10,
+                    "population": 4396,
                     "area": 4978010
                 },
                 "arcs": [[-327, 351, 352, 353, -339, 354]]
@@ -803,7 +803,7 @@
                 "type": "Polygon",
                 "id": "02020001701",
                 "properties": {
-                    "population": 10,
+                    "population": 7362,
                     "area": 2601929
                 },
                 "arcs": [[355, 356, 357, -353]]
@@ -811,7 +811,7 @@
                 "type": "Polygon",
                 "id": "02020002000",
                 "properties": {
-                    "population": 10,
+                    "population": 3622,
                     "area": 1334892
                 },
                 "arcs": [[358, -348, 359, 360]]
@@ -819,7 +819,7 @@
                 "type": "Polygon",
                 "id": "02020002100",
                 "properties": {
-                    "population": 10,
+                    "population": 4090,
                     "area": 1612672
                 },
                 "arcs": [[361, -361, 362, 363]]
@@ -827,7 +827,7 @@
                 "type": "Polygon",
                 "id": "02020002400",
                 "properties": {
-                    "population": 10,
+                    "population": 3192,
                     "area": 2070013
                 },
                 "arcs": [[364, 365, -363, -360, -347, 366, -321, 367]]
@@ -835,7 +835,7 @@
                 "type": "Polygon",
                 "id": "02020001702",
                 "properties": {
-                    "population": 10,
+                    "population": 5279,
                     "area": 2525341
                 },
                 "arcs": [[368, 369, 370, -356, 371]]
@@ -843,7 +843,7 @@
                 "type": "Polygon",
                 "id": "02020001731",
                 "properties": {
-                    "population": 10,
+                    "population": 5568,
                     "area": 2474164
                 },
                 "arcs": [[372, 373, 374, 375, -371]]
@@ -851,7 +851,7 @@
                 "type": "Polygon",
                 "id": "02020002201",
                 "properties": {
-                    "population": 10,
+                    "population": 5118,
                     "area": 1884237
                 },
                 "arcs": [[376, 377, -365, 378]]
@@ -859,7 +859,7 @@
                 "type": "Polygon",
                 "id": "02020001500",
                 "properties": {
-                    "population": 10,
+                    "population": 4967,
                     "area": 3335293
                 },
                 "arcs": [[379, 380, -328, -355, -342, 381, -344]]
@@ -867,7 +867,7 @@
                 "type": "Polygon",
                 "id": "02020002202",
                 "properties": {
-                    "population": 10,
+                    "population": 3095,
                     "area": 922188
                 },
                 "arcs": [[382, -364, -366, -378]]
@@ -875,7 +875,7 @@
                 "type": "Polygon",
                 "id": "02020002501",
                 "properties": {
-                    "population": 10,
+                    "population": 4893,
                     "area": 4577740
                 },
                 "arcs": [[-367, -346, -338, 383, -330, -322]]
@@ -883,7 +883,7 @@
                 "type": "Polygon",
                 "id": "02020001801",
                 "properties": {
-                    "population": 10,
+                    "population": 4817,
                     "area": 1748053
                 },
                 "arcs": [[-341, -349, -335, -345, -382]]
@@ -891,7 +891,7 @@
                 "type": "Polygon",
                 "id": "02105000200",
                 "properties": {
-                    "population": 10,
+                    "population": 66,
                     "area": 3598502
                 },
                 "arcs": [[384]]
@@ -899,7 +899,7 @@
                 "type": "Polygon",
                 "id": "02020002821",
                 "properties": {
-                    "population": 10,
+                    "population": 5273,
                     "area": 3601953
                 },
                 "arcs": [[385, 386, 387]]
@@ -907,7 +907,7 @@
                 "type": "Polygon",
                 "id": "02020000500",
                 "properties": {
-                    "population": 10,
+                    "population": 2057,
                     "area": 2663614
                 },
                 "arcs": [[388, 389, 390, 391, 392, 393]]
@@ -915,7 +915,7 @@
                 "type": "Polygon",
                 "id": "02130000100",
                 "properties": {
-                    "population": 10,
+                    "population": 3472,
                     "area": 12523916189
                 },
                 "arcs": [[-170, 394, -2, 395, -9, -4, -8], [-156, 396, -154, -153]]
@@ -923,7 +923,7 @@
                 "type": "Polygon",
                 "id": "02130000400",
                 "properties": {
-                    "population": 10,
+                    "population": 2318,
                     "area": 38639128
                 },
                 "arcs": [[-397, -155]]
@@ -931,7 +931,7 @@
                 "type": "Polygon",
                 "id": "02170001004",
                 "properties": {
-                    "population": 10,
+                    "population": 5340,
                     "area": 18404160
                 },
                 "arcs": [[-140, -289, -29, -88, -297, 397]]
@@ -939,7 +939,7 @@
                 "type": "Polygon",
                 "id": "02170000701",
                 "properties": {
-                    "population": 10,
+                    "population": 3022,
                     "area": 42202984
                 },
                 "arcs": [[-137, -25, -135, 398, 399, -13]]
@@ -947,7 +947,7 @@
                 "type": "Polygon",
                 "id": "02170000102",
                 "properties": {
-                    "population": 10,
+                    "population": 2041,
                     "area": 11392434340
                 },
                 "arcs": [[-291, -81, -136, -126]]
@@ -955,7 +955,7 @@
                 "type": "Polygon",
                 "id": "02170000604",
                 "properties": {
-                    "population": 10,
+                    "population": 4519,
                     "area": 451407691
                 },
                 "arcs": [[400, 401, -37, 402, 403, -394, 404, 405, 406]]
@@ -963,7 +963,7 @@
                 "type": "Polygon",
                 "id": "02170000705",
                 "properties": {
-                    "population": 10,
+                    "population": 4048,
                     "area": 10373715
                 },
                 "arcs": [[-23, -142, 407, -295, -132]]
@@ -971,7 +971,7 @@
                 "type": "Polygon",
                 "id": "02020001400",
                 "properties": {
-                    "population": 10,
+                    "population": 5050,
                     "area": 2187282
                 },
                 "arcs": [[408, 409, -380, -343, -359, 410]]
@@ -979,7 +979,7 @@
                 "type": "Polygon",
                 "id": "02020000203",
                 "properties": {
-                    "population": 10,
+                    "population": 11898,
                     "area": 14753110
                 },
                 "arcs": [[411, 412, 413, 414]]
@@ -987,7 +987,7 @@
                 "type": "Polygon",
                 "id": "02020001732",
                 "properties": {
-                    "population": 10,
+                    "population": 6184,
                     "area": 2648439
                 },
                 "arcs": [[-376, 415, -357]]
@@ -995,7 +995,7 @@
                 "type": "Polygon",
                 "id": "02020002712",
                 "properties": {
-                    "population": 10,
+                    "population": 8871,
                     "area": 11535313
                 },
                 "arcs": [[-331, -384, -337, -351, -110, 416, 417, 418]]
@@ -1003,7 +1003,7 @@
                 "type": "Polygon",
                 "id": "02020002711",
                 "properties": {
-                    "population": 10,
+                    "population": 6276,
                     "area": 7416313
                 },
                 "arcs": [[-332, -419, 419, -272, 420]]
@@ -1011,7 +1011,7 @@
                 "type": "Polygon",
                 "id": "02020000702",
                 "properties": {
-                    "population": 10,
+                    "population": 5344,
                     "area": 2096731
                 },
                 "arcs": [[421, 422, -373, -370, 423]]
@@ -1019,7 +1019,7 @@
                 "type": "Polygon",
                 "id": "02020002702",
                 "properties": {
-                    "population": 10,
+                    "population": 10245,
                     "area": 12289951
                 },
                 "arcs": [[-418, 424, -387, 425, 426, -254, -273, -420]]
@@ -1027,7 +1027,7 @@
                 "type": "Polygon",
                 "id": "02020000901",
                 "properties": {
-                    "population": 10,
+                    "population": 5615,
                     "area": 4467475
                 },
                 "arcs": [[427, 428, -325, 429, 430]]
@@ -1035,7 +1035,7 @@
                 "type": "Polygon",
                 "id": "02020000102",
                 "properties": {
-                    "population": 10,
+                    "population": 5396,
                     "area": 168772876
                 },
                 "arcs": [[-35, 431, 432, -413, 433, 434, 435]]
@@ -1043,7 +1043,7 @@
                 "type": "Polygon",
                 "id": "02020000701",
                 "properties": {
-                    "population": 10,
+                    "population": 5569,
                     "area": 2050365
                 },
                 "arcs": [[436, -424, -369, 437]]
@@ -1051,7 +1051,7 @@
                 "type": "Polygon",
                 "id": "02020000202",
                 "properties": {
-                    "population": 10,
+                    "population": 6282,
                     "area": 9185110
                 },
                 "arcs": [[-434, -412, 438]]
@@ -1059,7 +1059,7 @@
                 "type": "Polygon",
                 "id": "02020000400",
                 "properties": {
-                    "population": 10,
+                    "population": 5519,
                     "area": 52932747
                 },
                 "arcs": [[-404, 439, 440, -422, -437, 441, 442, -389]]
@@ -1067,7 +1067,7 @@
                 "type": "Polygon",
                 "id": "02020000600",
                 "properties": {
-                    "population": 10,
+                    "population": 7028,
                     "area": 3850990
                 },
                 "arcs": [[-443, 443, -428, 444, 445, -390]]
@@ -1075,7 +1075,7 @@
                 "type": "Polygon",
                 "id": "02020000204",
                 "properties": {
-                    "population": 10,
+                    "population": 3815,
                     "area": 510253947
                 },
                 "arcs": [[446, -414, -433, 447, 448, 449]]
@@ -1083,7 +1083,7 @@
                 "type": "Polygon",
                 "id": "02020001200",
                 "properties": {
-                    "population": 10,
+                    "population": 3604,
                     "area": 2010013
                 },
                 "arcs": [[-392, 450, 451, -409, 452]]
@@ -1091,7 +1091,7 @@
                 "type": "Polygon",
                 "id": "02020001000",
                 "properties": {
-                    "population": 10,
+                    "population": 3649,
                     "area": 1749931
                 },
                 "arcs": [[453, -445, -431, 454, -410, -452]]
@@ -1099,7 +1099,7 @@
                 "type": "Polygon",
                 "id": "02020002812",
                 "properties": {
-                    "population": 10,
+                    "population": 8008,
                     "area": 14812121
                 },
                 "arcs": [[-109, 455, 456, -115, 457, -388, -425, -417]]
@@ -1107,7 +1107,7 @@
                 "type": "Polygon",
                 "id": "02020002823",
                 "properties": {
-                    "population": 10,
+                    "population": 5717,
                     "area": 85707453
                 },
                 "arcs": [[458, -113, 459, -255, -427]]
@@ -1115,7 +1115,7 @@
                 "type": "Polygon",
                 "id": "02020000300",
                 "properties": {
-                    "population": 10,
+                    "population": 8822,
                     "area": 268329800
                 },
                 "arcs": [[-403, -36, -436, 460, -450, 461, -111, -457, 462, -105, -340, -354, -358, -416, -375, 463, -440]]
@@ -1123,7 +1123,7 @@
                 "type": "Polygon",
                 "id": "02020000101",
                 "properties": {
-                    "population": 10,
+                    "population": 6267,
                     "area": 1602696323
                 },
                 "arcs": [[-69, -294, 464, 465, -448, -432, -34]]
@@ -1131,7 +1131,7 @@
                 "type": "Polygon",
                 "id": "02020002603",
                 "properties": {
-                    "population": 10,
+                    "population": 6327,
                     "area": 2589141
                 },
                 "arcs": [[-106, -463, -456, -350]]
@@ -1139,7 +1139,7 @@
                 "type": "Polygon",
                 "id": "02020001100",
                 "properties": {
-                    "population": 10,
+                    "population": 850,
                     "area": 1196917
                 },
                 "arcs": [[-391, -446, -454, -451]]
@@ -1147,7 +1147,7 @@
                 "type": "Polygon",
                 "id": "02020002822",
                 "properties": {
-                    "population": 10,
+                    "population": 4254,
                     "area": 10861423
                 },
                 "arcs": [[-386, -458, -114, -459, -426]]
@@ -1155,7 +1155,7 @@
                 "type": "Polygon",
                 "id": "02020002900",
                 "properties": {
-                    "population": 10,
+                    "population": 2800,
                     "area": 1407132796
                 },
                 "arcs": [[-112, -462, -449, -466, 466, -256, -460]]
@@ -1163,7 +1163,7 @@
                 "type": "Polygon",
                 "id": "02020002301",
                 "properties": {
-                    "population": 10,
+                    "population": 7334,
                     "area": 50814201
                 },
                 "arcs": [[467, -406, 468, -379, -368, -324, -333, -421, -271]]
@@ -1171,7 +1171,7 @@
                 "type": "Polygon",
                 "id": "02020000201",
                 "properties": {
-                    "population": 10,
+                    "population": 4387,
                     "area": 3298836
                 },
                 "arcs": [[-435, -439, -415, -447, -461]]
@@ -1179,7 +1179,7 @@
                 "type": "Polygon",
                 "id": "02016000200",
                 "properties": {
-                    "population": 10,
+                    "population": 4536,
                     "area": 2823482561
                 },
                 "arcs": [[469, -151, 470, 471]]
@@ -1187,7 +1187,7 @@
                 "type": "MultiPolygon",
                 "id": "02016000100",
                 "properties": {
-                    "population": 10,
+                    "population": 1114,
                     "area": 8547237408
                 },
                 "arcs": [[[472]], [[-472, 473]], [[474]], [[475]], [[476]], [[477]], [[478]], [[479]], [[480]], [[481]], [[482]], [[483]], [[484]], [[485]], [[486]], [[487]], [[488]]]
@@ -1195,7 +1195,7 @@
                 "type": "Polygon",
                 "id": "02170000502",
                 "properties": {
-                    "population": 10,
+                    "population": 2153,
                     "area": 876588486
                 },
                 "arcs": [[-138, -15, 489, -407, -468, -270, -128]]
@@ -1203,7 +1203,7 @@
                 "type": "Polygon",
                 "id": "02170000501",
                 "properties": {
-                    "population": 10,
+                    "population": 2209,
                     "area": 129809950
                 },
                 "arcs": [[-14, -400, 490, -401, -490]]
@@ -1211,7 +1211,7 @@
                 "type": "Polygon",
                 "id": "02170001202",
                 "properties": {
-                    "population": 10,
+                    "population": 5391,
                     "area": 18678644
                 },
                 "arcs": [[-83, -17, -290]]
@@ -1227,7 +1227,7 @@
                 "type": "Polygon",
                 "id": "02170000603",
                 "properties": {
-                    "population": 10,
+                    "population": 6601,
                     "area": 55682951
                 },
                 "arcs": [[-399, -134, -89, -27, -402, -491]]
@@ -1235,7 +1235,7 @@
                 "type": "Polygon",
                 "id": "02185000100",
                 "properties": {
-                    "population": 10,
+                    "population": 4321,
                     "area": 253240492
                 },
                 "arcs": [[491, 492]]
@@ -1243,7 +1243,7 @@
                 "type": "Polygon",
                 "id": "02185000200",
                 "properties": {
-                    "population": 10,
+                    "population": 2412,
                     "area": 221623578163
                 },
                 "arcs": [[-492, 493, 494, 495, -281, -284, -316, 496]]
@@ -1251,7 +1251,7 @@
                 "type": "Polygon",
                 "id": "02185000300",
                 "properties": {
-                    "population": 10,
+                    "population": 2885,
                     "area": 8215222615
                 },
                 "arcs": [[497, -495]]
@@ -1259,7 +1259,7 @@
                 "type": "Polygon",
                 "id": "02164000100",
                 "properties": {
-                    "population": 10,
+                    "population": 1490,
                     "area": 60735852998
                 },
                 "arcs": [[498, -44, -315, -42, -175, -248, -309, 499, -148]]
@@ -1267,7 +1267,7 @@
                 "type": "Polygon",
                 "id": "02282000100",
                 "properties": {
-                    "population": 10,
+                    "population": 635,
                     "area": 19811996044
                 },
                 "arcs": [[500, 501, -74, 502, 503]]
@@ -1275,7 +1275,7 @@
                 "type": "Polygon",
                 "id": "02100000100",
                 "properties": {
-                    "population": 10,
+                    "population": 2557,
                     "area": 6009296606
                 },
                 "arcs": [[-71, 504, -62, -61, -76, 505], [-385]]
@@ -1283,7 +1283,7 @@
                 "type": "Polygon",
                 "id": "02261000300",
                 "properties": {
-                    "population": 10,
+                    "population": 4404,
                     "area": 11061250919
                 },
                 "arcs": [[-276, -257, -467, -465, -293, 506, 507, 508]]
@@ -1291,7 +1291,7 @@
                 "type": "Polygon",
                 "id": "02261000100",
                 "properties": {
-                    "population": 10,
+                    "population": 2636,
                     "area": 63955044230
                 },
                 "arcs": [[-292, -124, -159, -119, 509, -501, 510, -507]]
@@ -1299,7 +1299,7 @@
                 "type": "MultiPolygon",
                 "id": "02261000200",
                 "properties": {
-                    "population": 10,
+                    "population": 2645,
                     "area": 13660446164
                 },
                 "arcs": [[[511]], [[-508, -511, -504, 512]]]
@@ -1307,7 +1307,7 @@
                 "type": "Polygon",
                 "id": "02020001300",
                 "properties": {
-                    "population": 10,
+                    "population": 3024,
                     "area": 2720664
                 },
                 "arcs": [[-393, -453, -411, -362, -383, -377, -469, -405]]
@@ -1315,7 +1315,7 @@
                 "type": "Polygon",
                 "id": "02020000703",
                 "properties": {
-                    "population": 10,
+                    "population": 5980,
                     "area": 2798680
                 },
                 "arcs": [[-374, -423, -441, -464]]
@@ -1323,7 +1323,7 @@
                 "type": "Polygon",
                 "id": "02020000801",
                 "properties": {
-                    "population": 10,
+                    "population": 7088,
                     "area": 2543751
                 },
                 "arcs": [[-444, -442, -438, 513, -429]]
@@ -1331,7 +1331,7 @@
                 "type": "Polygon",
                 "id": "02020000802",
                 "properties": {
-                    "population": 10,
+                    "population": 4570,
                     "area": 2338007
                 },
                 "arcs": [[-514, -372, -352, -326]]
@@ -1339,7 +1339,7 @@
                 "type": "Polygon",
                 "id": "02020000902",
                 "properties": {
-                    "population": 10,
+                    "population": 2848,
                     "area": 1146156
                 },
                 "arcs": [[-430, -329, -381, -455]]
